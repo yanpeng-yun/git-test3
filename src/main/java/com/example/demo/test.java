@@ -6,5 +6,6 @@ public class test {
         System.out.println("wocao");
         System.out.println("wocao");
         System.out.println("wocao");
+        System.out.println("master更改了");
     }
 }
