@@ -7,5 +7,6 @@ public class test {
         System.out.println("wocao");
         System.out.println("wocao");
         System.out.println("master更改了");
+        System.out.println("host更改了");
     }
 }
