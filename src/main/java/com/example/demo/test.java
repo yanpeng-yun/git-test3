@@ -9,6 +9,7 @@ public class test {
         System.out.println("master更改了");
         System.out.println("host更改了");
         System.out.println("posh一次");
+        System.out.println("pull一次");
     }
 }
 
