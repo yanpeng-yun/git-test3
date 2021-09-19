@@ -10,6 +10,7 @@ public class test {
         System.out.println("host更改了");
         System.out.println("posh一次");
         System.out.println("pull一次");
+        System.out.println("push两次");
     }
 }
 
